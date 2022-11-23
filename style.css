@@ -1,0 +1,62 @@
+nav{
+    position:absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    width: 1440px;
+    height: 100px;
+}
+
+nav ul{
+    display: inline;
+}
+
+nav ul li{
+    display: inline;
+    text-decoration: none;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+}
+#links1{
+    display: inline;
+}
+#links1 p{
+    display: inline;
+    position: absolute;
+    left: 10px;
+}
+
+#links1 ul{
+    position: absolute;
+    display: inline;
+    left: 40px;
+}
+
+#links2 {
+    display: inline;
+    position: absolute;
+    top: 10px;
+    left: 1100px;
+}
+
+#SignUp{
+    display: inline;
+    position: absolute;
+    left: 1250px;
+    top: 10px;
+    background-color: black;
+    text-align: center;
+    height: 20px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+#SignUp a{
+    color: white;
+    text-decoration: none;
+}
+

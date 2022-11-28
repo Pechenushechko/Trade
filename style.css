@@ -4,8 +4,8 @@ nav{
     right: 0%;
     top: 0%;
     bottom: 0%;
-    width: 1440px;
-    height: 100px;
+    width: 1280px;
+    height: 50px;
 }
 
 nav ul{
@@ -57,6 +57,130 @@ nav a{
 
 #SignUp a{
     color: white;
+    text-decoration: none;
+}
+
+#FirstTrouble{
+    display: block;
+    width: 1280px;
+    height: 400px;
+    text-align: center;
+}
+
+#FirstTrouble h1{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 185px auto auto auto;
+}
+
+#FirstTrouble h4{
+    width: 300px;
+    height: 65px;
+    margin: 32px auto auto auto;
+}
+
+#Start{
+    margin: 32px auto auto auto;
+    background-color: black;
+    align-items: center;
+    height: 40px;
+    width: 230px;
+    border-radius: 5px;
+    padding-top: 15px;
+}
+
+#Start a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.SecondTrouble{
+    display: block;
+    width: 1280px;
+    height: 200px;
+    text-align: center;
+}
+
+.SecondTrouble h6{
+    margin-top: 50px;
+}
+
+#Plan{
+    display: block;
+    width: 1280px;
+    height: 700px;
+    text-align: center;
+}
+
+#Plan .block{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    left: 100px;
+    align-items: center;
+    margin-right: 15px;
+
+    background-color: black;
+}
+
+.rectangle-{
+    display: inline-block;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin-top: 66px;
+    margin-left: -30px;
+
+    background: white;
+    border-radius: 8px;
+}
+
+.circle{
+    height: 64px;
+    width: 64px;
+    margin-top: 66px;
+    margin-left: 66px;
+
+    background-color: white;
+    border-radius: 32px;
+}
+
+.rectangle{
+    height: 64px;
+    width: 64px;
+
+    margin-top: 66px;
+    margin-left: 66px;
+
+    background-color: white;
+}
+
+.desc{
+    display: inline-block;
+    width: 200px;
+    height: 140px;
+    text-align: left;
+    font-size: 19px;
+
+    margin-right: 15px;
+    margin-top: -4px;
+    background-color: rgb(227, 220, 207);
+}
+
+.desc p{
+    padding-left: 10px;
+    padding-bottom: 40px;
+}
+
+.desc h6{
+    margin: 0;
+    padding-left: 10px;
+}
+
+.desc a{
+    font-size: 15px;
+    color: black;
     text-decoration: none;
 }
 
